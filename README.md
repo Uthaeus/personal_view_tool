@@ -16,7 +16,9 @@ If bundler is not being used to manage dependencies, install the gem by executin
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+MyPersonalViewTool::Renderer.copyright 'Homer J.', 'All rights reserved'
+```
 
 ## Development
 
